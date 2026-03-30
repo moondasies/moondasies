@@ -29,7 +29,7 @@
 
 ## 👩‍💻 About Me
 
-**Srijita Chatterjee** — AI Product Manager from India 🇮🇳
+**Srijita Chatterjee** — AI Product Manager 
 
 I sit at the rare intersection of **product strategy** and **AI engineering**. Most PMs understand products. Most engineers understand AI. I understand both — deeply.
 
@@ -43,7 +43,7 @@ With **3 internships** in AI product roles, a **published research paper**, and 
 - 🎓 Published researcher — TheraBot presented at ICDAM 2025
 - 📱 Content creator with 27K+ followers on AI & tech
 
-**Currently building:** Sonar AI — a multilingual AI voice agent for sales automation, built entirely from scratch using Claude API + ElevenLabs + Twilio.
+**Currently building:** Sonour AI — a multilingual AI voice agent for sales automation, built entirely from scratch using Claude API + ElevenLabs + Twilio.
 
 ---
 
@@ -93,7 +93,7 @@ With **3 internships** in AI product roles, a **published research paper**, and 
 
 ## 🚀 Projects
 
-### 🎙️ Sonar AI — Multilingual AI Voice Sales Agent
+### 🎙️ Sonour AI — Multilingual AI Voice Sales Agent
 [![Status](https://img.shields.io/badge/Status-🔨_Building-FF6B9D?style=for-the-badge)](#)
 [![Stack](https://img.shields.io/badge/Stack-Python_+_FastAPI_+_Claude-8B5CF6?style=for-the-badge)](#)
 
@@ -102,7 +102,7 @@ With **3 internships** in AI product roles, a **published research paper**, and 
 **Built completely from scratch — no low-code platforms:**
 
 ```
-📞 Phone Layer     →  Twilio (inbound + outbound calls)
+📞 Phone Layer     →  Twilio (inbound + outbound calls) (Yet to add for now testing it using internal test call's)
 🎤 Voice Input     →  OpenAI Whisper (Speech-to-Text)
 🧠 AI Brain        →  Claude API (Anthropic) — conversation + lead logic  
 🔊 Voice Output    →  ElevenLabs (Text-to-Speech, natural Indian voices)
@@ -121,31 +121,6 @@ With **3 internships** in AI product roles, a **published research paper**, and 
 - ✅ Seamless Hindi ↔ English language switching
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moondasies)
-
----
-
-### 🤍 TheraBot — AI Mental Health Assistant
-[![Status](https://img.shields.io/badge/Status-✅_Complete-4CAF50?style=for-the-badge)](#)
-[![Research](https://img.shields.io/badge/ICDAM_2025-Published_Paper-06B6D4?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-
-**The Vision:** An AI-powered conversational assistant providing structured emotional support — built with safety and empathy at its core.
-
-```
-🧠 AI Core       →  LLMs with custom empathetic prompt frameworks
-🛡️ Safety Layer  →  Multi-layer guardrails for responsible AI behavior
-💬 Dialogue      →  Multi-turn conversation with contextual memory
-⚙️ Backend       →  FastAPI + Python
-🗄️ Storage       →  Conversation logs with session management
-```
-
-**Research Highlights:**
-- 📄 Published research paper presented at **ICDAM 2025**
-- 🔬 Studied AI behavior in sensitive mental health conversations
-- 🛡️ Developed responsible AI frameworks for empathetic dialogue
-- 📊 Analyzed conversation patterns for safety and effectiveness
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-9B7EB8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moondasies/ai-therapist-THERABOT)
-[![Paper](https://img.shields.io/badge/Read_Research_Paper-ICDAM_2025-green?style=for-the-badge)](#)
 
 ---
 
@@ -254,7 +229,7 @@ With **3 internships** in AI product roles, a **published research paper**, and 
 | 🐍 | **Python Data Science & Generative AI** | Certification Body | 2025 |
 | 📄 | **Research Paper — TheraBot AI** | ICDAM 2025 Conference | 2025 |
 | ⭐ | **GitHub Pro** | GitHub | 2026 |
-| 📱 | **27K+ Followers — SriSphere** | Instagram | Ongoing |
+| 📱 | **37K+ Followers — SriSphere** | Instagram | Ongoing |
 
 </div>
 
@@ -264,7 +239,7 @@ With **3 internships** in AI product roles, a **published research paper**, and 
 
 <div align="center">
 
-Beyond product and engineering, I run **[@sri.sphere](https://instagram.com/sri.sphere)** — an AI & tech content channel with **27,000+ followers** 🎉
+Beyond product and engineering, I run **[@sri.sphere](https://instagram.com/sri.sphere)** — an AI & tech content channel with **37,000+ followers** 🎉
 
 </div>
 
@@ -326,7 +301,7 @@ class SrijitaChatterjee:
     
     location   = "India 🇮🇳 — Remote / Hybrid / Onsite"
     contact    = "srijitachatterjee777@gmail.com"
-    content    = "@sri.sphere — 27K+ followers"
+    content    = "@sri.sphere — 37K+ followers"
     mission    = "Build AI products that actually matter 🚀"
 ```
 
