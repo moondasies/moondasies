@@ -93,34 +93,95 @@ With **3 internships** in AI product roles, a **published research paper**, and 
 
 ## 🚀 Projects
 
-### 🎙️ Sonour AI — Multilingual AI Voice Sales Agent
-[![Status](https://img.shields.io/badge/Status-🔨_Building-FF6B9D?style=for-the-badge)](#)
-[![Stack](https://img.shields.io/badge/Stack-Python_+_FastAPI_+_Claude-8B5CF6?style=for-the-badge)](#)
+### 🏥 Sonour AI — AI Medical Appointment Assistant
 
-**The Vision:** An AI voice agent that handles inbound and outbound sales calls automatically, qualifies leads through natural conversation, and works seamlessly in both Hindi and English.
+[![Status](https://img.shields.io/badge/Status-🚧_Building-FF6B9D?style=for-the-badge)](#)
+[![Stack](https://img.shields.io/badge/Stack-FastAPI_+_React_+_MongoDB-8B5CF6?style=for-the-badge)](#)
 
-**Built completely from scratch — no low-code platforms:**
+**The Vision:**
+An AI-powered hospital assistant that simulates real patient conversations, performs intelligent symptom triage, routes users to the correct department, and books appointments automatically.
+
+---
+
+## 🧠 What It Does
+
+Sonour AI acts like a **virtual receptionist for hospitals**, capable of:
+
+* Understanding patient symptoms through natural conversation
+* Asking follow-up questions (triage logic)
+* Determining the correct medical department
+* Suggesting doctors based on availability
+* Booking appointments in real-time
+* Storing full conversation logs for admin review
+
+---
+
+## ⚙️ System Architecture
 
 ```
-📞 Phone Layer     →  Twilio (inbound + outbound calls) (Yet to add for now testing it using internal test call's)
-🎤 Voice Input     →  OpenAI Whisper (Speech-to-Text)
-🧠 AI Brain        →  Claude API (Anthropic) — conversation + lead logic  
-🔊 Voice Output    →  ElevenLabs (Text-to-Speech, natural Indian voices)
-📧 Email Layer     →  Resend.com (automated call summaries)
-⚡ Backend         →  Python + FastAPI + WebSockets (real-time audio)
-🗄️ Database        →  SQLite (conversation logs + lead data)
-🌐 Language        →  Auto-detects Hindi vs English mid-conversation
+💬 Chat Interface   →  React + TypeScript (Call Simulator UI)
+🧠 AI Engine        →  Groq / OpenAI (LLM-based triage + response)
+⚡ Backend          →  Python + FastAPI (API + logic layer)
+🗄️ Database        →  MongoDB (appointments, conversations, doctors)
+📚 Knowledge Base   →  Custom hospital data injected into AI context
 ```
 
-**Features:**
-- ✅ Inbound call handling — agent picks up and qualifies
-- ✅ Outbound call initiation — agent calls leads proactively
-- ✅ Natural lead qualification (BANT framework)
-- ✅ Lead scoring: Hot 🔥 / Warm ⚡ / Cold ❄️
-- ✅ Automated email summary after every call
-- ✅ Seamless Hindi ↔ English language switching
+---
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moondasies)
+## 🔄 AI Flow
+
+```
+1. Patient describes symptoms
+2. AI extracts intent + symptoms
+3. If unclear → asks follow-up questions
+4. Maps symptoms → department
+5. Suggests doctor + available slots
+6. Books appointment
+7. Stores conversation + booking data
+```
+
+---
+
+## 🧩 Core Features
+
+* 🧠 AI Triage System — multi-turn symptom analysis
+* 🏥 Smart Department Routing — safe fallback to General Physician
+* 📅 Appointment Booking Engine — slot-based scheduling
+* 👨‍⚕️ Doctor Management — admin-controlled schedules
+* 📚 Knowledge Base — dynamic hospital information
+* 💬 Call Simulator — test AI without real telephony
+* 📊 Dashboard — monitor interactions and bookings
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React + TypeScript + Tailwind
+* **Backend:** FastAPI (Python)
+* **Database:** MongoDB
+* **AI:** Groq API (LLaMA models) / OpenAI
+
+---
+
+## ⚠️ Current Status
+
+* ✅ Core backend + frontend structure complete
+* ✅ Chat-based AI simulation working
+* 🚧 Improving triage accuracy and booking flow
+* 🚧 Voice calling integration (future scope)
+
+---
+
+## 🚀 Future Scope
+
+* 📞 Real-time voice integration (Twilio)
+* 🌐 Multi-language support (Hindi + English)
+* 📈 Advanced analytics dashboard
+* 🏥 Multi-hospital SaaS deployment
+
+---
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-FF6B9D?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/moondasies/sonourAI)
 
 ---
 
