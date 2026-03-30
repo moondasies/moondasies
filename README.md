@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&multiline=false&width=750&height=55&lines=AI+Product+Manager+%7C+3+Internships+%F0%9F%9A%80;Building+Sonar+AI+%7C+Voice+Agent+from+Scratch+%F0%9F%8E%99%EF%B8%8F;Research+Published+%40+ICDAM+2025+%F0%9F%8E%93;LLMs+%7C+RAG+%7C+Voice+AI+%7C+Prompt+Engineering+%F0%9F%A7%A0;37K%2B+Followers+%40+SriSphere+%F0%9F%93%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&multiline=false&width=750&height=55&lines=AI+Product+Manager+%7C+3+Internships+%F0%9F%9A%80;Building+Sonour+AI+%7C+Voice+Agent+from+Scratch+%F0%9F%8E%99%EF%B8%8F;Research+Published+%40+ICDAM+2025+%F0%9F%8E%93;LLMs+%7C+RAG+%7C+Voice+AI+%7C+Prompt+Engineering+%F0%9F%A7%A0;37K%2B+Followers+%40+SriSphere+%F0%9F%93%B1)](https://git.io/typing-svg)
 
 <br/>
 
