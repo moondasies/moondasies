@@ -311,7 +311,7 @@ Beyond product and engineering, I run **[@sri.sphere](https://instagram.com/sri.
 - 📚 Making complex tech accessible for everyone
 - 🚀 Startup building and learning journey
 
-[![SriSphere](https://img.shields.io/badge/@sri.sphere-27K+_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sri.sphere)
+[![SriSphere](https://img.shields.io/badge/@sri.sphere-37K+_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sri.sphere)
 
 ---
 
