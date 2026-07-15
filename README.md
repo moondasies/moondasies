@@ -1,12 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,25:FF6B9D,50:C471ED,75:8B5CF6,100:06B6D4&height=250&section=header&text=Srijita%20Chatterjee&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Product%20Manager%20%7C%20Researcher%20%7C%20Builder&descAlignY=62&descSize=22&descColor=ffffff&stroke=ffffff&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,25:FF6B9D,50:C471ED,75:8B5CF6,100:06B6D4&height=250&section=header"/>
 
-</div>
+# SRIJITA CHATTERJEE
 
-<div align="center">
+### `STRATEGY` • `BUILD` • `SHIP`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&multiline=false&width=750&height=55&lines=AI+Product+Manager+%7C+3+Internships+%F0%9F%9A%80;Building+Sonour+AI+%7C+Voice+Agent+from+Scratch+%F0%9F%8E%99%EF%B8%8F;Research+Published+%40+ICDAM+2025+%F0%9F%8E%93;LLMs+%7C+RAG+%7C+Voice+AI+%7C+Prompt+Engineering+%F0%9F%A7%A0;37K%2B+Followers+%40+SriSphere+%F0%9F%93%B1)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/-AI%20Product%20Manager-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Researcher-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Builder-111111?style=for-the-badge"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/><br/><sub><b>AI / LLMs</b></sub></td>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/services.png"/><br/><sub><b>Product</b></sub></td>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/combo-chart.png"/><br/><sub><b>Data & Analytics</b></sub></td>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/microphone.png"/><br/><sub><b>Voice AI</b></sub></td>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/graduation-cap.png"/><br/><sub><b>Research</b></sub></td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="340">
+
+**📚 Always Building**
+<sub>Advanced RAG, Agentic AI & voice pipelines</sub>
+
+</td>
+<td align="center" width="340">
+
+**🎯 Data Over Instinct**
+<sub>Every decision backed by metrics, not guesses</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```
+> AI Product Manager @ TradeVed  |  Published Researcher (ICRCET'26, ICDAM'25)
+> 37K+ creator @sri.sphere  |  Ex-Jinn.live, Pacific Business Solutions, Vstarts
+```
 
 <br/>
 
@@ -27,8 +65,6 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
 I sit at the rare intersection of **product strategy** and **AI engineering**. Most PMs understand products. Most engineers understand AI. I understand both — deeply.
 
 With internships across four AI/product roles, two published research papers, and hands-on experience shipping real AI systems end-to-end, I bring a rare blend of technical depth and product thinking to every team I join.
@@ -43,8 +79,6 @@ With internships across four AI/product roles, two published research papers, an
 - 📱 Content creator with 37K+ followers on AI & tech (@sri.sphere)
 
 **Currently building:** Sonour AI — a multilingual AI voice agent for sales automation, built end-to-end with LLM APIs, prompt pipelines & telephony integrations.
-
-<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer"/>
 
@@ -199,8 +233,6 @@ Beyond product and engineering, I run **@sri.sphere** — an AI & tech content c
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moondasies&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moondasies&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=8B5CF6&point=06B6D4"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer"/>
@@ -250,4 +282,90 @@ If you're building something in AI, looking for a PM who can also build, or just
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:FF006E&height=120&section=footer"/>
 
 </div>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,25:FF6B9D,50:C471ED,75:8B5CF6,100:06B6D4&height=250&section=header"/>
+
+<img width="140" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
+
+# SRIJITA CHATTERJEE
+
+### `STRATEGY` • `BUILD` • `SHIP`
+
+<img src="https://img.shields.io/badge/-AI%20Product%20Manager-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Researcher-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Builder-111111?style=for-the-badge"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/><br/><sub><b>AI / LLMs</b></sub></td>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/services.png"/><br/><sub><b>Product</b></sub></td>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/combo-chart.png"/><br/><sub><b>Data & Analytics</b></sub></td>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/microphone.png"/><br/><sub><b>Voice AI</b></sub></td>
+<td align="center" width="130"><img width="50" src="https://img.icons8.com/fluency/96/graduation-cap.png"/><br/><sub><b>Research</b></sub></td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="340">
+
+**📚 Always Building**
+<sub>Advanced RAG, Agentic AI & voice pipelines</sub>
+
+</td>
+<td align="center" width="340">
+
+**🎯 Data Over Instinct**
+<sub>Every decision backed by metrics, not guesses</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```
+> AI Product Manager @ TradeVed  |  Published Researcher (ICRCET'26, ICDAM'25)
+> 37K+ creator @sri.sphere  |  Ex-Jinn.live, Pacific Business Solutions, Vstarts
+```
+
+<br/>
+
+<a href="https://linkedin.com/in/srijita7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:srijitachatterjee777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://instagram.com/sri.sphere"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/moondasies"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=moondasies&style=for-the-badge&color=ff6b9d&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/moondasies?style=for-the-badge&color=8b5cf6&label=FOLLOWERS&labelColor=black"/>
+<img src="https://img.shields.io/badge/GITHUB-PRO-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer"/>
+
+## 👩‍💻 About Me
+
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+I sit at the rare intersection of **product strategy** and **AI engineering**. Most PMs understand products. Most engineers understand AI. I understand both — deeply.
+
+With internships across four AI/product roles, two published research papers, and hands-on experience shipping real AI systems end-to-end, I bring a rare blend of technical depth and product thinking to every team I join.
+
+**What defines my approach:**
+
+- 🛠️ I build the products I manage — not just spec them
+- 📄 PRDs that engineers love and stakeholders understand
+- 🧠 Deep knowledge of LLMs, RAG, Agentic AI & Prompt Engineering
+- 📊 Every decision is backed by data, not intuition alone
+- 🎓 Published researcher — SonarAI (ICRCET 2026) & TheraBot (ICDAM 2025)
+- 📱 Content creator with 37K+ followers on AI & tech (@sri.sphere)
+
+**Currently building:** Sonour AI — a multilingual AI voice agent for sales automation, built end-to-end with LLM APIs, prompt pipelines & telephony integrations.
+
+<br clear="right"/>
