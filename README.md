@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0117,50:2E1065,100:0D0117&height=200&section=header&text=SRIJITA%20CHATTERJEE&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0117,50:2E1065,100:0D0117&height=170&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0117,50:2E1065,100:0D0117&height=60&section=header&text=AI%20Product%20Manager%20%7C%20Builder%20%7C%20Researcher&fontSize=18&fontColor=E879F9&animation=twinkling&fontAlignY=60" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=SRIJITA+CHATTERJEE" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&duration=3000&pause=700&color=E879F9&center=true&vCenter=true&width=800&lines=AI+PRODUCT+MANAGER+%7C+BUILDER+%7C+RESEARCHER;Building+Sonar+AI+%F0%9F%8E%99%EF%B8%8F;LLMs+%E2%80%A2+RAG+%E2%80%A2+Voice+AI+%E2%80%A2+Agentic+Systems;Published+%40+ICRCET+2026+%26+ICDAM+2025;Open+to+AI+PM+Roles+%F0%9F%9A%80" />
 
 <br/>
 
@@ -15,11 +17,15 @@
 <br/><br/>
 
 <a href="#about-me"><img src="https://img.shields.io/badge/-ABOUT-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
-<a href="#experience"><img src="https://img.shields.io/badge/-EXPERIENCE-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/-PROJECTS-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
+<a href="#quest-log"><img src="https://img.shields.io/badge/-QUEST_LOG-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
+<a href="#side-quests"><img src="https://img.shields.io/badge/-SIDE_QUESTS-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
 <a href="#skill-tree"><img src="https://img.shields.io/badge/-SKILL_TREE-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
 <a href="#achievements"><img src="https://img.shields.io/badge/-ACHIEVEMENTS-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
 <a href="#save-point"><img src="https://img.shields.io/badge/-SAVE_POINT-0D0117?style=for-the-badge&color=2E1065&logoColor=FFFFFF"/></a>
+
+<br/><br/>
+
+<img src="https://api.dicebear.com/7.x/bottts/svg?seed=SonourAI&backgroundColor=0d0117" width="80"/>
 
 </div>
 <br/>
@@ -33,7 +39,7 @@
 <table>
 <tr>
 <td width="150" valign="top" align="center">
-<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=SrijitaChatterjeeAI&backgroundColor=2e1065&hairVariant=long01,long02,long03,long04,long05,long06,long07,long08,long09,long10,long11,long12,long13,long14,long15,long16,long17,long18,long19,long20&hairProbability=100" width="130"/>
+<img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=SrijitaChatterjee&backgroundColor=2e1065" width="130"/>
 <br/><sub><b>Lv.99 AI PM</b></sub>
 </td>
 <td>
@@ -59,14 +65,14 @@ Data-driven AI Product Manager with cross-functional experience shipping 0-to-1 
 
 <br/>
 
-<a name="experience"></a>
+<a name="quest-log"></a>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&color=FFFFFF&center=true&vCenter=true&width=500&height=45&lines=EXPERIENCE&repeat=false" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%97%A1%EF%B8%8F+QUEST+LOG+%2F%2F+EXPERIENCE&repeat=false" />
 </div>
 
 <details>
-<summary>💼 <b>AI Product Manager @ TradeVed</b> <i>(click to expand)</i></summary>
+<summary>⚔️ <b>MAIN QUEST — AI Product Manager @ TradeVed</b> <i>(click to accept)</i></summary>
 <br/>
 
 Leading end-to-end development of TradeVed's first product — a trading-education module teaching users to trade through simulated paper trading — from PRD through shipped release.
@@ -76,22 +82,40 @@ Leading end-to-end development of TradeVed's first product — a trading-educati
 - 💳 Integrated Razorpay payment gateway and live broker paper-trading data feeds for real-time simulated trading with authentic market data
 - 📈 Drove GTM & growth partnerships with trading institutes across Tier 3/4 cities, offering free access to student cohorts to build early traction; defined OKRs/KPIs and led the v1 launch rollout
 
-**Highlights:** <img src="https://img.shields.io/badge/Shipped_v1-A855F7?style=flat-square&labelColor=0D0117"/> <img src="https://img.shields.io/badge/−30%25_Overhead-E879F9?style=flat-square&labelColor=0D0117"/>
+**🏆 Reward:** <img src="https://img.shields.io/badge/Shipped_v1-A855F7?style=flat-square&labelColor=0D0117"/> <img src="https://img.shields.io/badge/−30%25_Overhead-E879F9?style=flat-square&labelColor=0D0117"/>
 
 </details>
 
-**AI Product Manager Intern — Jinn.live**
+<details>
+<summary>🛰️ <b>SIDE QUEST — AI Product Manager Intern @ Jinn.live</b> <i>(click to view)</i></summary>
+<br/>
 
-**Product Analyst — Pacific Business Solutions**
+🔒 Full quest log confidential — ask me about it directly!
 
-**Product & Growth Intern — Vstarts** (Chandigarh University-TBI)
+</details>
+
+<details>
+<summary>📡 <b>SIDE QUEST — Product Analyst @ Pacific Business Solutions</b> <i>(click to view)</i></summary>
+<br/>
+
+🔒 Full quest log confidential — ask me about it directly!
+
+</details>
+
+<details>
+<summary>🚀 <b>SIDE QUEST — Product & Growth Intern @ Vstarts</b> <i>(Chandigarh University-TBI, click to view)</i></summary>
+<br/>
+
+🔒 Full quest log confidential — ask me about it directly!
+
+</details>
 
 <br/>
 
-<a name="projects"></a>
+<a name="side-quests"></a>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&color=FFFFFF&center=true&vCenter=true&width=500&height=45&lines=PROJECTS&repeat=false" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%8E%AF+SIDE+QUESTS+%2F%2F+PROJECTS&repeat=false" />
 </div>
 
 **🏥 SonarAI — AI Medical Assistant**
@@ -120,21 +144,37 @@ Deep analysis of banking transaction datasets surfacing spending patterns, anoma
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%E2%9A%94%EF%B8%8F+SKILL+TREE+%2F%2F+TECH+STACK&repeat=false" />
 </div>
 
-**🌳 Product Management** <code>+500 XP</code>
+<details>
+<summary>🌳 <b>NODE UNLOCKED: PRODUCT MANAGEMENT</b> <code>+500 XP</code></summary>
+<br/>
 
-<img src="https://img.shields.io/badge/-Agile-6D28D9?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Scrum-4C1D95?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Jira-6D28D9?style=for-the-badge&logo=jira&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Notion-4C1D95?style=for-the-badge&logo=notion&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Figma-6D28D9?style=for-the-badge&logo=figma&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Confluence-4C1D95?style=for-the-badge&logo=confluence&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-RICE-6D28D9?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-MoSCoW-4C1D95?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-PRDs-6D28D9?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-BRDs-4C1D95?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-OKRs%2FKPIs-6D28D9?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-A%2FB_Testing-4C1D95?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Cohort_Analysis-6D28D9?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Agile-0D0117?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Scrum-2E1065?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Jira-0D0117?style=for-the-badge&logo=jira&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Notion-2E1065?style=for-the-badge&logo=notion&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Figma-0D0117?style=for-the-badge&logo=figma&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Confluence-2E1065?style=for-the-badge&logo=confluence&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-RICE-0D0117?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-MoSCoW-2E1065?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-PRDs-0D0117?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-BRDs-2E1065?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-OKRs%2FKPIs-0D0117?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-A%2FB_Testing-2E1065?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Cohort_Analysis-0D0117?style=for-the-badge&logoColor=FFFFFF"/>
 
-**🧠 AI / ML** <code>+750 XP</code>
+</details>
 
-<img src="https://img.shields.io/badge/-LLM-A21CAF?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-RAG-C026D3?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Prompt_Engineering-A21CAF?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-NLP-C026D3?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Groq-A21CAF?style=for-the-badge&logoColor=FFFFFF"/>
+<details>
+<summary>🧠 <b>NODE UNLOCKED: AI / ML</b> <code>+750 XP</code></summary>
+<br/>
 
-**📈 Data & Analytics** <code>+400 XP</code>
+<img src="https://img.shields.io/badge/-LLM-0D0117?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-RAG-2E1065?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Prompt_Engineering-0D0117?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-NLP-2E1065?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Groq-0D0117?style=for-the-badge&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/-Python-4338CA?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-SQL-3730A3?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Pandas-4338CA?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Power_BI-3730A3?style=for-the-badge&logo=powerbi&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Tableau-4338CA?style=for-the-badge&logo=tableau&logoColor=FFFFFF"/>
+</details>
 
-**🛠️ Dev & Tools** <code>+600 XP</code>
+<details>
+<summary>📈 <b>NODE UNLOCKED: DATA & ANALYTICS</b> <code>+400 XP</code></summary>
+<br/>
 
-<img src="https://img.shields.io/badge/-FastAPI-86198F?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-MongoDB-D946EF?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Supabase-86198F?style=for-the-badge&logo=supabase&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-React-D946EF?style=for-the-badge&logo=react&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-GitHub-86198F?style=for-the-badge&logo=github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Streamlit-D946EF?style=for-the-badge&logo=streamlit&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Python-0D0117?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-SQL-2E1065?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Pandas-0D0117?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Power_BI-2E1065?style=for-the-badge&logo=powerbi&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Tableau-0D0117?style=for-the-badge&logo=tableau&logoColor=FFFFFF"/>
+
+</details>
+
+<details>
+<summary>🛠️ <b>NODE UNLOCKED: DEV & TOOLS</b> <code>+600 XP</code></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/-FastAPI-0D0117?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-MongoDB-2E1065?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Supabase-0D0117?style=for-the-badge&logo=supabase&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-React-2E1065?style=for-the-badge&logo=react&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-GitHub-0D0117?style=for-the-badge&logo=github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Streamlit-2E1065?style=for-the-badge&logo=streamlit&logoColor=FFFFFF"/>
+
+</details>
 
 <br/>
 
@@ -160,10 +200,6 @@ Deep analysis of banking transaction datasets surfacing spending patterns, anoma
 
 > 📱 **ACHIEVEMENT UNLOCKED!** 40.1K+ Followers — SriSphere <img src="https://img.shields.io/badge/Instagram_Ongoing-6D28D9?style=flat-square&labelColor=0D0117"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0117,50:A855F7,100:0D0117&height=70&section=header&text=%F0%9F%8E%89%20100%25%20ACHIEVEMENTS%20UNLOCKED%20%F0%9F%8E%89&fontSize=20&fontColor=FFFFFF&animation=blinkFast&fontAlignY=55" width="100%"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -177,17 +213,15 @@ Deep analysis of banking transaction datasets surfacing spending patterns, anoma
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0117,50:A855F7,100:0D0117&height=4&section=header" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&color=FFFFFF&center=true&vCenter=true&width=500&height=45&lines=SRISPHERE&repeat=false" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%93%B1+SRISPHERE+%2F%2F+CONTENT&repeat=false" />
 </div>
 
 Beyond product and engineering, I run **@sri.sphere** — an AI & tech content channel with 40,100+ followers 🎉
 
-<div align="center">
-<img src="https://img.shields.io/badge/🤖_AI_Tools-6D28D9?style=for-the-badge&labelColor=0D0117"/>
-<img src="https://img.shields.io/badge/🏗️_Building_in_Public-A21CAF?style=for-the-badge&labelColor=0D0117"/>
-<img src="https://img.shields.io/badge/💼_AI_PM_Career_Path-4338CA?style=for-the-badge&labelColor=0D0117"/>
-<img src="https://img.shields.io/badge/📚_Tech_Made_Simple-86198F?style=for-the-badge&labelColor=0D0117"/>
-</div>
+- 🤖 AI tools — practical guides and honest reviews
+- 🏗️ Building AI products in public — real behind-the-scenes
+- 💼 AI PM career path — what it actually takes
+- 📚 Making complex tech accessible for everyone
 
 <br/>
 
