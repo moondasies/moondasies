@@ -14,11 +14,7 @@
 </div>
 
 <br/>
-SYSTEM BOOT...................... OK
-USER_ID ......................... srijita_chatterjee
-ROLE ............................ AI PRODUCT MANAGER
-STATUS .......................... ONLINE // OPEN_TO_WORK
-LOCATION ........................ REMOTE
+
 
 <br/>
 
